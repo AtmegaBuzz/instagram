@@ -1,2 +1,2 @@
-# instagram
-it is a phishing tool for instagram.com
+This is a instagram phishing page .
+from this u can hack any instagram account
